@@ -1,0 +1,56 @@
+[
+  {
+    "itemId": "15",
+    "productId": "15",
+    "productName": "Barbecue Pizza",
+    "price": 19.75
+  },
+  {
+    "itemId": "15",
+    "productId": "15",
+    "productName": "Barbecue Pizza",
+    "price": 19.75
+  },
+  {
+    "itemId": "3",
+    "productId": "3",
+    "productName": "Lasagna Pasta",
+    "price": 11
+  },
+  {
+    "itemId": "22",
+    "productId": "22",
+    "productName": "Fresh Mozzarella Pizza",
+    "price": 18.5
+  },
+  {
+    "itemId": "8",
+    "productId": "8",
+    "productName": "4 Cheese Rigatoni Pasta",
+    "price": 14
+  },
+  {
+    "itemId": "8",
+    "productId": "8",
+    "productName": "4 Cheese Rigatoni Pasta",
+    "price": 14
+  },
+  {
+    "itemId": "21",
+    "productId": "21",
+    "productName": "Pepperoni Pizza",
+    "price": 15.99
+  },
+  {
+    "itemId": "1",
+    "productId": "1",
+    "productName": "Alfredo Pasta",
+    "price": 16
+  },
+  {
+    "itemId": "5",
+    "productId": "5",
+    "productName": "Formaggi Pasta",
+    "price": 11.75
+  }
+]
