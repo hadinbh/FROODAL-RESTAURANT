@@ -1,0 +1,227 @@
+[
+    {
+        "id": 1,
+        "name": "Alfredo Pasta",
+        "image": "images/pastaAlfrido.jpg",
+        "description": "Comforting, creamy, satisfying, cheesy, and warm may or may not describe your perfect comfort food, but in the dead of winter, it's pretty close to perfection in most people's book.",
+        "ingredients": "Fettuccine pasta, Butter, Heavy cream, Garlic, Parmesan cheese, Salt, Black pepper, Nutmeg",
+        "calories": "1,200 kcal",
+        "price": "$16.00"
+    },
+    {
+        "id": 2,
+        "name": "Chicken Romano Pasta",
+        "image": "images/ChickenRomanoPasta.jpg",
+        "description": "Golden, crispy, and sure to be a new family favorite. Serve it with spaghetti and marinara and watch it fly off the table!",
+        "ingredients": "Chicken breasts, flour, Eggs, Bread crumbs, Romano cheese, Olive oil, Butter, Heavy cream, Garlic, Salt, pepper, Parsley.",
+        "calories": "1,150 kcal",
+        "price": "$13.25"
+    },
+    {
+        "id": 3,
+        "name": "Lasagna Pasta",
+        "image": "images/LasagnaPasta.jpg",
+        "description": "Delight in the layers of goodness with our Lasagna Pasta. Each forkful unveils sheets of tender pasta generously layered with rich meat sauce, creamy béchamel, and melted cheese.",
+        "ingredients": "Lasagna pasta, Ground beef, Ricotta cheese, Mozzarella cheese, Parmesan cheese, Tomato sauce, Onion, Garlic, Olive oil, Italian seasoning, Salt, pepper.",
+        "calories": "950 kcal",
+        "price": "$11.00"
+    },
+    {
+        "id": 4,
+        "name": "Red Sauce Pasta With Sausage",
+        "image": "images/RedSaucePastaWithSausage.jpg",
+        "description": "A delicious blend of ripe tomatoes, aromatic herbs, and premium sausage awaits your taste buds in every bite.",
+        "ingredients": "Pasta of your choice, Italian sausage, Tomato sauce, Olive oil, Garlic, Onion, red pepper, Basil, Salt, black pepper.",
+        "calories": "1,080 kcal",
+        "price": "$12.50"
+    },
+    {
+        "id": 5,
+        "name": "Formaggi Pasta",
+        "image": "images/FormaggiPasta.jpg",
+        "description": "Delight in the harmonious blend of premium cheeses, this dish is a symphony of textures and tastes, creating a luxurious experience for true cheese connoisseurs.",
+        "ingredients": "Pasta of your choice, Heavy cream, Butter, Parmesan cheese, Gorgonzola cheese, Mozzarella cheese, Salt, Black pepper, Nutmeg.",
+        "calories": "800 kcal",
+        "price": "$11.75"
+    },
+    {
+        "id": 6,
+        "name": "Bucatini Pasta with Mushroom Ragù",
+        "image": "images/BucatiniPastawithMushroomRagù.jpg",
+        "description": "Al dente pasta meets robust mushroom ragù, complemented by tender dandelion greens and aromatic tarragon, creating a memorable and indulgent experience.",
+        "ingredients": "Bucatini pasta, Mushrooms, Dandelion greens, Tarragon, Olive oil, Onion, Garlic, Tomato sauce, Red wine, Salt, Black pepper, Parmesan cheese.",
+        "calories": "1,340 kcal",
+        "price": "$13.50"
+    },
+    {
+        "id": 7,
+        "name": "Red Pasta Sauce with Meat Balls",
+        "image": "images/RedPastaSaucewithMeatBalls.jpg",
+        "description": "Succulent meatballs nestled in a rich, zesty red sauce, creating a timeless harmony of flavors. This dish promises a satisfying blend of hearty textures and savory goodness, perfect for a comforting and delicious dining experience.",
+        "ingredients": "Tomato sauce, Olive oil, Onion, Garlic, Italian seasoning, Salt and black pepper, Ground beef, Breadcrumbs, Egg, Parmesan cheese, Garlic powder, Onion powder.",
+        "calories": "750 kcal",
+        "price": "$11.75"
+    },
+    {
+        "id": 8,
+        "name": "4 Cheese Rigatoni Pasta",
+        "image": "images/4CheeseRigatoniPasta.jpg",
+        "description": "Each bite is a journey into a world of rich, cheesy goodness, harmoniously complemented by the hearty texture of the pasta. ",
+        "ingredients": "Rigatoni pasta, Parmesan cheese, Mozzarella cheese, Fontina cheese, Gorgonzola cheese, Heavy cream, Butter, Garlic, Salt, Black pepper, Nutmeg",
+        "calories": "1,400 kcal",
+        "price": "$14.00"
+    },
+    {
+        "id": 9,
+        "name": "Tortelli Pasta with Spinach and Ricotta Cheese with Rosa Sauce",
+        "image": "images/TortelliPastawithSpinachandRicottaCheesewithRosaSauce.jpg",
+        "description": "Delicate pasta filled with the richness of spinach and ricotta, elegantly coated in a luscious blend of tomato and Alfredo. A delightful harmony of flavors in every bite.",
+        "ingredients": "Tortelli pasta, Spinach, Ricotta cheese, Parmesan cheese, Salt, Black pepper, Tomato sauce, Cream, Butter, Garlic, Rosa Sauce, Mozzarella cheese, Fontina cheese, Gorgonzola cheese, Heavy cream, Rigatoni pasta, Ground beef, Breadcrumbs, Egg, Parsley, Red Pasta Sauce,Olive oil, Onion, Italian seasoning.",
+        "calories": "1,800 kcal",
+        "price": "$15.50"
+    },
+    {
+        "id": 10,
+        "name": "Diavolla Pasta",
+        "image": "images/DiavollaPasta.jpg",
+        "description": "Spice up your meal with Diavola Spaghetti. Perfectly cooked pasta in a bold, spicy tomato sauce with a kick of red chili flakes. A fiery delight in every bite.",
+        "ingredients": "Diavola Pasta, Penne pasta, Olive oil, Garlic, Red pepper flakes, Tomato sauce, Salt, Black pepper, Basil, Parmesan cheese.",
+        "calories": "1,100 kcal",
+        "price": "$11.50"
+    },
+    {
+        "id": 11,
+        "name": "Carbonara Pasta",
+        "image": "images/CarbonaraPasta.jpg",
+        "description": "Indulge in the classic simplicity of our Carbonara Pasta. Al dente spaghetti coated in a velvety sauce crafted from eggs, Parmesan cheese, pancetta, and black pepper.",
+        "ingredients": "Carbonara Pasta, Guanciale, Eggs, Romano cheese, Parmesan cheese, Black pepper, Salt.",
+        "calories": "1,300 kcal",
+        "price": "$13.25"
+    },
+    {
+        "id": 12,
+        "name": "Shrimp Pene Rose Pasta",
+        "image": "images/ShrimpPeneRosePasta.jpg",
+        "description": "Savor our Shrimp Penne Rose Pasta—a perfect blend of succulent shrimp and al dente penne in a creamy tomato and Alfredo sauce. A delightful harmony of flavors in every bite.",
+        "ingredients": "Penne pasta, Shrimp, Olive oil, Garlic, red pepper, Tomato sauce, Heavy cream, Salt, Black pepper, Parmesan cheese, Basil",
+        "calories": "1,290 kcal",
+        "price": "$12.00"
+    },
+    {
+        "id": 13,
+        "name": "Mac & Cheese Pasta",
+        "image": "images/MacCheesePasta.jpg",
+        "description": "Velvety cheese sauce blankets perfectly cooked macaroni, creating a classic dish that's rich, creamy, and simply irresistible.",
+        "ingredients": "Macaroni, Cheddar cheese, Mozzarella cheese, Butter, flour, Milk, Mustard powder, Salt, Black pepper, Bread crumbs.",
+        "calories": " 1,300 kcal",
+        "price": "$12.00"
+    },
+    {
+        "id": 14,
+        "name": "Rigatoni Pasta with Spicy Beef",
+        "image": "images/RigatoniPastawithSpicyBeef.jpg",
+        "description": "A perfectly cooked pasta entwines with savory, zesty beef, creating a flavor-packed delight that ignites the palate. Each mouthful is a fiery and satisfying exploration of bold tastes",
+        "ingredients": "Rigatoni pasta, Ground beef, Olive oil, Onion, Garlic, Red pepper flakes, Tomato sauce, Salt, Black pepper, Parmesan cheese, Parsley.",
+        "calories": "1,250 kcal",
+        "price": "$13.00"
+    },
+    {
+        "id": 15,
+        "name": "Barbecue Pizza",
+        "image": "images/BarbecuePizza.jpg",
+        "description": "Satisfy your cravings with our Barbecue Pizza. This pizza is a flavor-packed delight that will transport your taste buds to barbecue bliss.",
+        "ingredients": "Dough, Barbecue sauce, Cooked chicken, onion, Mozzarella cheese, Cheddar cheese, cilantro.",
+        "calories": "1,800 kcal",
+        "price": "$19.75"
+    },
+    {
+        "id": 16,
+        "name": "Chilly Ranch Pizza",
+        "image": "images/ChillyRanchPizza.jpg",
+        "description": "Experience a flavor explosion with our Chilly Ranch Pizza. This pizza offers a perfect balance of cool and spicy, delivering a unique and unforgettable taste that will spice up your pizza experience.",
+        "ingredients": "Dough, Ranch dressing, chicken, chili powder, Onion, Jalapeños, Cheddar cheese, Mozzarella cheese, cilantro.",
+        "calories": "2,200 kcal",
+        "price": "$19.75"
+    },
+    {
+        "id": 17,
+        "name": "Hawaiian Pizza",
+        "image": "images/HawaiianPizza.jpg",
+        "description": "Transport yourself to a tropical paradise with our Hawaiian Pizza. Indulge in the perfect harmony of sweet and savory as succulent ham, juicy pineapple, and melted cheese come together on a golden crust. ",
+        "ingredients": "Dough, Tomato sauce, Mozzarella cheese, Ham, Pineapple, Olive oil.",
+        "calories": "1,790 kcal",
+        "price": "$19.25"
+    },
+    {
+        "id": 18,
+        "name": "Pure Italiano Pizza",
+        "image": "images/PureItalianoPizza.jpg",
+        "description": "A true homage to the simplicity and excellence of traditional Italian pizza craftsmanship, delivering a taste of Italy in every slice.",
+        "ingredients": "Dough, Tomato sauce, Fresh mozzarella cheese, Basil, Olive oil, Garlic, Salt, Black pepper, Parmesan cheese.",
+        "calories": "1,820 kcal",
+        "price": "$20.00"
+    },
+    {
+        "id": 19,
+        "name": "Marinara Pizza",
+        "image": "images/MarinaraPizza.jpg",
+        "description": "Meet our Marinara Pizza—where a thin crust carries the heroically zesty marinara sauce, garlic, and a dash of herbs. It's so good, you might rethink the whole pizza-folding tradition!",
+        "ingredients": "Dough, Tomato sauce, Garlic, Olive oil, Oregano, Red pepper, Salt, Black pepper, Basil.",
+        "calories": "1,700 kcal",
+        "price": "$16.00"
+    },
+    {
+        "id": 20,
+        "name": "Mexican Pizza",
+        "image": "images/MexicanPizza.jpg",
+        "description": "Get ready to salsa your taste buds into a spicy tango with our Mexican Pizza! Catch your mouth doing a little cha-cha. Olé! ",
+        "ingredients": "Dough, Refried beans, chicken, Salsa, Jalapeños, Cheddar cheese, Mozzarella cheese, Sour cream, Green onions.",
+        "calories": "1,910 kcal",
+        "price": "$17.50"
+    },
+    {
+        "id": 21,
+        "name": "Pepperoni Pizza",
+        "image": "images/PepperoniPizza.jpg",
+        "description": "It's that pizza that needs no introduction.",
+        "ingredients": "Dough, Tomato sauce, Mozzarella cheese, Pepperoni, Olive oil, Oregano, Parmesan cheese.",
+        "calories": "1,800 kcal",
+        "price": "$15.99"
+    },
+    {
+        "id": 22,
+        "name": "Fresh Mozzarella Pizza",
+        "image": "images/FreshMozzarellaPizza.jpg",
+        "description": "Meet our Fresh Mozzarella Pizza—because life's too short for anything less fresh than your pizza and your jokes! It's like a cheesy comedy show for your taste buds!",
+        "ingredients": "Dough, Tomato sauce, Mozzarella cheese, Basil, Olive oil, Salt, Black pepper, Parmesan cheese.",
+        "calories": "2,100 kcal",
+        "price": "$18.50"
+    },
+    {
+        "id": 23,
+        "name": "White Truffle Pizza",
+        "image": "images/WhiteTrufflePizza.jpg",
+        "description": "Sometimes your taste buds deserve a VIP truffle-tastic experience! It's the pizza equivalent of a gourmet red carpet roll-out for your mouth!",
+        "ingredients": "Dough, White truffle oil, Mozzarella cheese, Ricotta cheese, Parmesan cheese, thyme, Salt, Black pepper.",
+        "calories": "1,880 kcal",
+        "price": "$17.00"
+    },
+    {
+        "id": 24,
+        "name": "Burrata Garden Pizza",
+        "image": "images/BurrataGardenPizza.jpg",
+        "description": "It's like a salad, but with a serious upgrade.",
+        "ingredients": "Dough, Tomato sauce, Burrata cheese, Cherry tomatoes, basil, Olive oil, Balsamic glaze, Salt, Black pepper.",
+        "calories": "1,6500 kcal",
+        "price": "$17.25"
+    },
+    {
+        "id": 25,
+        "name": "Margherita Pizza",
+        "image": "images/MargheritaPizza.jpg",
+        "description": "It's the pizza that proves sometimes less is more—except when it comes to flavor!",
+        "ingredients": "Dough, Tomato sauce, Fresh mozzarella cheese, basil, Olive oil, Salt, Black pepper.",
+        "calories": "1,700 kcal",
+        "price": "$15.00"
+    }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "email": "nouraschool2011@gmail.com",
+    "password": "123456",
+    "fullName": "noura awwad",
+    "phoneNumber": "0530009516",
+    "address": "riyadh"
+  },
+  {
+    "email": "hadinab@gmail.com",
+    "password": "12345",
+    "fullName": "hadi nababteh",
+    "phoneNumber": "0546669606",
+    "address": "rabwa comp"
+  },
+  {
+    "email": "hadi@test2.com",
+    "password": "123",
+    "fullName": "hadiUPP",
+    "phoneNumber": "12345678",
+    "address": "riyadh"
+  },
+  {
+    "email": "hadi123@gmail.com",
+    "password": "12345",
+    "fullName": "hadi waheed nababteh ",
+    "phoneNumber": "05283428",
+    "address": "Riyadh city"
+  },
+  {
+    "email": "haneen.hashlamoun@gmail.com",
+    "password": "0000",
+    "fullName": "Haneen00000",
+    "phoneNumber": "0542986542",
+    "address": "test22"
+  },
+  {
+    "email": "new@n.com",
+    "password": "123",
+    "fullName": "new00",
+    "phoneNumber": "123123132",
+    "address": "12312323"
+  },
+  {
+    "email": "ss@ss.com",
+    "password": "123",
+    "fullName": "ss",
+    "phoneNumber": "132",
+    "address": "123"
+  },
+  {
+    "email": "new@n2.com",
+    "password": "123",
+    "fullName": "new design ",
+    "phoneNumber": "132",
+    "address": "123"
+  },
+  {
+    "email": "jiz@gmail.com",
+    "password": "shexwithcelebs",
+    "fullName": "jalal ihab zoul",
+    "phoneNumber": "0564758324",
+    "address": "malaz "
+  },
+  {
+    "email": "layan@gmail.com",
+    "password": "layan1234",
+    "fullName": "layan",
+    "phoneNumber": "0324834838",
+    "address": "salman mushayt idfk"
+  },
+  {
+    "email": "hadi1234@gmailcom",
+    "password": "hadi123",
+    "fullName": "Hadi Nababtehh",
+    "phoneNumber": "0545550593",
+    "address": "hsfnjsfn"
+  },
+  {
+    "email": "haditest@gmail.com",
+    "password": "hadi123456",
+    "fullName": "Hadi test2",
+    "phoneNumber": "0545383234",
+    "address": "riyadh saudi arabia"
+  },
+  {
+    "email": "haditest3@gmail.com",
+    "password": "haditest123",
+    "fullName": "haditest3@gmail.com",
+    "phoneNumber": "054542845834",
+    "address": "riyadh saudi arabia 1"
+  },
+  {
+    "email": "haditest4@gmail.com",
+    "password": "haditest4",
+    "fullName": "haditest4@gmail.com",
+    "phoneNumber": "0545823487",
+    "address": "hadi saudi arabia 1"
+  },
+  {
+    "email": "haditest5@gmail.com",
+    "password": "haditest10",
+    "fullName": "haditest5",
+    "phoneNumber": "04395283324",
+    "address": "hadi saudi arabia 2"
+  },
+  {
+    "email": "Jihadsayed1@gmail.com",
+    "password": "jihadsayed123",
+    "fullName": "Jihad Sayyyed",
+    "phoneNumber": "0532835833",
+    "address": "alfaris school"
+  },
+  {
+    "email": "Ziad100100@gmail.com",
+    "password": "hadipass",
+    "fullName": "ziad",
+    "phoneNumber": "0509479300",
+    "address": "dubai"
+  }
+]
